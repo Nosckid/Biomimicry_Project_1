@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd39b9ca-f1b9-4f41-86a8-33c469bd34ca" name="Changes" comment="" />
+    <list default="true" id="dd39b9ca-f1b9-4f41-86a8-33c469bd34ca" name="Changes" comment="Knapsack resolved">
+      <change afterPath="$PROJECT_DIR$/ParticleSwarmOptimization_TSP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelingSalesman.py" beforeDir="false" afterPath="$PROJECT_DIR$/TravelingSalesman.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730512786226</updated>
     </task>
+    <task id="LOCAL-00001" summary="Knapsack resolved">
+      <option name="closed" value="true" />
+      <created>1730513302225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730513302225</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Knapsack resolved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Knapsack resolved" />
   </component>
 </project>
